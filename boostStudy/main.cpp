@@ -6,4 +6,5 @@ void main1() {
 	cout << "hello" << endl;
 	cout << tm.elapsed() << endl;
 	getchar();
+	return;
 }
